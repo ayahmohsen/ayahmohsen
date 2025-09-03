@@ -1,6 +1,6 @@
 ### Hi, I'm Aya 👋
 
-Software engineer based in Cairo · civil engineering background.
+Civil engineering graduate of Ain Shams University, pivoted to software.
 
 🛠️ I build mobile apps with Flutter.
 
