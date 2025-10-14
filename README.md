@@ -1,4 +1,4 @@
-### Hi, I'm Aya 👋
+### 안녕! I'm Aya 👋
 
 Civil engineering graduate of Ain Shams University · pivoted to software.
 
