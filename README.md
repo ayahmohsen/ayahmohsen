@@ -1,9 +1,7 @@
 ### Hi, I'm Aya 👋
 
-Civil engineering graduate of Ain Shams University · pivoted to software.
+Civil engineering graduate of Ain Shams University · now a Software Engineer at Sheriax Solutions.
 
-🛠️ I build mobile apps with Flutter.
+🛠️ Flutter · Firebase · Kotlin · Python.
 
-**Currently learning:** Python (DSP, NumPy), Clean Architecture
-
-**Stack:** Flutter · Dart · Firebase · Kotlin
+**Currently learning:** DSP fundamentals, Python scientific stack
