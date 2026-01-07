@@ -4,6 +4,6 @@ Civil engineering graduate of Ain Shams University · Software Engineer @ Sheria
 
 **Stack:** Flutter · Firebase · Kotlin · Python
 
-**Currently learning:** DSP fundamentals, Python scientific stack
+**Currently learning:** DSP fundamentals, scientific Python
 
-**Interests:** mobile systems · civil infrastructure · applied signal processing
+**Interests:** mobile systems · civil infrastructure · signal processing
