@@ -2,8 +2,8 @@
 
 Civil engineering graduate of Ain Shams University · Software Engineer at Sheriax Solutions.
 
-Currently shipping features for the TNTJ Blood Donors app (10k+ users) and the Kizu AI financial wellness platform.
+Shipping features for the TNTJ Blood Donors app (10k+ users) and the Kizu AI financial wellness platform.
+
+**Exploring:** edge-based anomaly detection for Structural Health Monitoring (SHM) of civil infrastructure.
 
 **Stack:** Flutter · Firebase · Kotlin · Python
-
-**Currently learning:** DSP, scientific Python, Korean (TOPIK 1)
