@@ -7,3 +7,7 @@ Shipping features for the TNTJ Blood Donors app (10k+ users) and the Kizu AI fin
 **Exploring:** edge-based anomaly detection for Structural Health Monitoring (SHM) of civil infrastructure.
 
 **Stack:** Flutter · Firebase · Kotlin · Python
+
+---
+
+🌍 [ayamohsen.com](https://ayamohsen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ayahmohsen/) · ✉️ ayahmohsen97@gmail.com
