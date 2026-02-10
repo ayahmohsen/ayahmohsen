@@ -8,6 +8,8 @@ Shipping features for the TNTJ Blood Donors app (10k+ users) and the Kizu AI fin
 
 **Stack:** Flutter · Firebase · Kotlin · Python
 
+**Studying:** Korean (TOPIK 1 → targeting L2)
+
 ---
 
 🌍 [ayamohsen.com](https://ayamohsen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ayahmohsen/) · ✉️ ayahmohsen97@gmail.com
