@@ -1,6 +1,6 @@
 ### Hi, I'm Ayah 👋
 
-Civil engineering graduate of Ain Shams University · Software Engineer at Sheriax Solutions.
+Civil engineering graduate of Ain Shams University · Software Engineer at Sheriax Solutions · MSc applicant, University of Ulsan.
 
 Shipping features for the TNTJ Blood Donors app (10k+ users) and the Kizu AI financial wellness platform.
 
@@ -8,7 +8,7 @@ Shipping features for the TNTJ Blood Donors app (10k+ users) and the Kizu AI fin
 
 **Stack:** Flutter · Firebase · Kotlin · Python
 
-**Studying:** Korean (TOPIK 1 → targeting L2)
+**Studying:** Korean (TOPIK 1 → L2), preparing for GKS 2026.
 
 ---
 
