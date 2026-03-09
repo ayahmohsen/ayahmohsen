@@ -4,7 +4,7 @@ Civil engineering graduate of Ain Shams University — Software Engineer at Sher
 
 Shipping features for the TNTJ Blood Donors app (10k+ users) and the Kizu AI financial wellness platform.
 
-**Exploring:** edge-based anomaly detection for Structural Health Monitoring (SHM) of civil infrastructure.
+**Research focus:** edge-based anomaly detection for Structural Health Monitoring (SHM) of civil infrastructure — lightweight AI that runs directly on vibration and acoustic-emission sensors.
 
 **Stack:** Flutter · Firebase · Kotlin · Python
 
