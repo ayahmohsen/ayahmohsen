@@ -6,7 +6,7 @@ Shipping features for the TNTJ Blood Donors app (10k+ users) and the Kizu AI fin
 
 **Research focus:** edge-based anomaly detection for Structural Health Monitoring (SHM) of civil infrastructure — lightweight AI that runs directly on vibration and acoustic-emission sensors.
 
-**Stack:** Flutter · Firebase · Kotlin · Python · TensorFlow Lite
+**Stack:** Flutter · Firebase · Kotlin · Python · TensorFlow Lite · scipy.signal
 
 **Studying:** Korean (TOPIK 1 → L2), preparing for GKS 2026.
 
