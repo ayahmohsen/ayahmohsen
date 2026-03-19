@@ -6,6 +6,8 @@ Shipping features for the TNTJ Blood Donors app (10k+ users on Google Play) and 
 
 **🔬 Research focus:** edge-based anomaly detection for Structural Health Monitoring (SHM) of civil infrastructure — lightweight AI that runs directly on vibration and acoustic-emission sensors.
 
+**📌 See pinned:** `edge-shm-anomaly-detection`, `shm-dsp-notebooks`, `AyouhAMealApp`.
+
 **Stack:** Flutter · Firebase · Kotlin · Python · TensorFlow Lite · scipy.signal
 
 **Studying:** Korean (TOPIK 1 → L2), preparing for GKS 2026.
