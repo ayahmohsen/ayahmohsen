@@ -8,7 +8,7 @@ Shipping features for the TNTJ Blood Donors app (10k+ users on Google Play) and 
 
 **📌 See pinned:** `edge-shm-anomaly-detection`, `shm-dsp-notebooks`, `AyouhAMealApp`.
 
-**Stack:** Dart · Firebase · Flutter · Kotlin · Python · scipy.signal · TensorFlow Lite
+**Stack:** Dart · Firebase · Flutter · Kotlin · Python · PyWavelets · scipy.signal · TensorFlow Lite
 
 **Studying:** Korean (TOPIK 1 → L2), preparing for GKS 2026.
 
