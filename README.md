@@ -1,6 +1,6 @@
 ### Hi, I'm Ayah 👋
 
-🏗️ Civil engineering graduate of Ain Shams University — 💻 Software Engineer at Sheriax Solutions — 🎓 MSc applicant, University of Ulsan.
+🏗️ Civil engineering graduate of Ain Shams University — 💻 Software Engineer at Sheriax Solutions — 🎓 MSc applicant, University of Ulsan (GKS 2026).
 
 Shipping features for the TNTJ Blood Donors app (10k+ users on Google Play) and the Kizu AI financial wellness platform.
 
@@ -8,9 +8,9 @@ Shipping features for the TNTJ Blood Donors app (10k+ users on Google Play) and 
 
 **📌 See pinned:** `edge-shm-anomaly-detection`, `shm-dsp-notebooks`, `AyouhAMealApp`.
 
-**Stack:** Dart · Firebase · Flutter · Kotlin · Python · PyWavelets · scipy.signal · TensorFlow Lite
+**Stack:** Dart · Firebase · Flutter · Kotlin · Python · PyTorch · PyWavelets · scipy.signal · TensorFlow Lite
 
-**Studying:** Korean (TOPIK 1 → L2), preparing for GKS 2026.
+**Studying:** Korean (TOPIK 1 → L2).
 
 ---
 
