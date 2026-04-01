@@ -12,6 +12,6 @@ Shipping features for the TNTJ Blood Donors app (10k+ users on Google Play) and 
 
 **Studying:** Korean (TOPIK 1 → L2).
 
----
+### Elsewhere
 
 🌍 [ayamohsen.com](https://ayamohsen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ayahmohsen/) · ✉️ ayahmohsen97@gmail.com
