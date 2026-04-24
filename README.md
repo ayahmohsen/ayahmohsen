@@ -1,16 +1,14 @@
-### Hi, I'm Ayah 👋
+### Hi, I'm Aya
 
-Software Engineer at [Sheriax Solutions](https://sheriax.com) · Civil Engineer turned Software Engineer · Master's applicant at **University of Ulsan** (GKS 2026).
+Software Engineer at [Sheriax Solutions](https://sheriax.com) · Civil Engineer turned Software Engineer.
 
-🔬 **Current focus:** Edge-based anomaly detection for Structural Health Monitoring (SHM) of civil infrastructure — lightweight AI that runs directly on vibration and acoustic-emission sensors.
+**What I do:** Building production mobile apps with Flutter & Firebase — currently shipping features to 10,000+ users on Google Play ([TNTJ Blood Donors](https://play.google.com/store/apps/details?id=com.tntjblooddonors)).
 
-💻 **Production work:** Flutter · Firebase · mobile apps shipping to 10,000+ users on Google Play ([TNTJ Blood Donors](https://play.google.com/store/apps/details?id=com.tntjblooddonors)).
-
-📚 **Currently learning:** Signal processing (Fourier · wavelets · envelope analysis) · TensorFlow Lite · Korean (TOPIK L2).
+**What I'm exploring:** Python for AI & machine learning — lightweight models, edge deployment, and anomaly detection.
 
 ---
 
-**🛠 Tech stack**
+**Tech stack**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
@@ -21,12 +19,12 @@ Software Engineer at [Sheriax Solutions](https://sheriax.com) · Civil Engineer 
 
 ---
 
-**🌐 Elsewhere**
+**Elsewhere**
 
-- 🌍 Portfolio: [ayamohsen.com](https://ayamohsen.com)
-- 💼 LinkedIn: [/in/ayahmohsen](https://www.linkedin.com/in/ayahmohsen/)
-- 📧 ayahmohsen97@gmail.com
+- Portfolio: [ayamohsen.com](https://ayamohsen.com)
+- LinkedIn: [/in/ayahmohsen](https://www.linkedin.com/in/ayahmohsen/)
+- Email: ayahmohsen97@gmail.com
 
 ---
 
-*Based in Cairo · Building toward Ulsan 🇪🇬 → 🇰🇷*
+*Based in Cairo · Building software that ships*
