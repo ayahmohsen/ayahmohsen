@@ -2,7 +2,7 @@
 
 Software Engineer at [Sheriax Solutions](https://sheriax.com) · Civil Engineer turned Software Engineer.
 
-**What I do:** Building production mobile apps with Flutter & Firebase — currently shipping features to 10,000+ users on Google Play ([TNTJ Blood Donors](https://play.google.com/store/apps/details?id=com.tntjblooddonors)).
+**What I do:** Building production mobile apps with Flutter & Firebase — shipping features to [TNTJ Blood Donors](https://play.google.com/store/apps/details?id=com.tntjblooddonors) (10,000+ users on Google Play) and contributing to [Kizu AI](https://kizu.in), an AI-powered financial wellness platform.
 
 **What I'm exploring:** Python for AI & machine learning — lightweight models, edge deployment, and anomaly detection.
 
